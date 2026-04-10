@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "muthiara";
+    src: url(../font/Muthiara\ demo\ version.otf);
+}
+
+@font-face {
+    font-family: "study alone";
+    src: url(../font/Study\ Alone.otf);
+}
+
+h1{
+    font-family: "muthiara";
+}
+
+h2{
+    font-family: "study alone";
+}
